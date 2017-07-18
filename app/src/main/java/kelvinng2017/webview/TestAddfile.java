@@ -5,4 +5,5 @@ package kelvinng2017.webview;
  */
 
 public class TestAddfile {
+    int i=1+1;
 }
